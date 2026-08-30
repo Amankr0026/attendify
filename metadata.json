@@ -1,0 +1,6 @@
+{
+  "name": "Attendify — Student Attendance Tracker",
+  "description": "A modern, responsive student attendance tracking dashboard with smart predictions, timetable management, analytics, calendar, and data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
